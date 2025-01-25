@@ -1,5 +1,5 @@
 # Indicator-Optimization-and-Selection
-
+How to Improve
 1. Data Quality and Preprocessing
 Ensure Data Integrity: Validate data to ensure there are no missing or erroneous values. data.ffill(inplace=True) is useful, but double-check if there are outliers or gaps that need further handling.
 Log Transformation: For highly skewed data like Volume, a log transformation can stabilize variance.
